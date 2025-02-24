@@ -1,6 +1,6 @@
 # RussFi DeFAI Portfolio Manager Agent On Sonic
 
-RussFi is an open-sourced DeFi portfolio management agent designed for the Sonic blockchain. It leverages Zerepy for seamless token swap functionality and integrates smart AI features to help manage your decentralized finance portfolio.
+RussFi is an DeFi portfolio management agent designed for the Sonic blockchain. It leverages Zerepy for seamless token swap functionality and integrates smart AI features to help manage your decentralized finance portfolio.
 
 ## Tech Stack
 
